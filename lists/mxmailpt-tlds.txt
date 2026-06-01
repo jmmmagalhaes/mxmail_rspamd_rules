@@ -3,6 +3,7 @@
 /\.bid$/i
 /\.beauty$/i
 /\.autos$/i
+/\.top$/i
 /\.bio$/i
 /\.racing$/i
 /\.club$/i
